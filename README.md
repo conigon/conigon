@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python-original.svg" width="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
   <b>Python</b><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
