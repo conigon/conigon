@@ -10,10 +10,38 @@
 - 💻 Me gusta: [Frontend, Backend, Base de Datos, Videojuegos 2D]
 - 📫 Contáctame: [constanza.gonzalemed@correoaiep.cl]
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Skills & Technical Toolkit
+
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python-original.svg" width="50"/><br>
+  <b>Python</b><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>
+  <b>VS Code</b><br>
+  <img src="https://img.shields.io/badge/Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v2.png" width="50"/><br>
+  <b>Excel</b><br>
+  <img src="https://img.shields.io/badge/Hojas%20de%20cálculo-217346?style=flat"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/><br>
+  <b>Git</b><br>
+  <img src="https://img.shields.io/badge/Control%20de%20versiones-F05032?style=flat&logo=git&logoColor=white"/>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
+  <b>SQL</b><br>
+  <img src="https://img.shields.io/badge/Bases%20de%20datos-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 ### 📊 Mis Stats
 <p align="center">
